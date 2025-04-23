@@ -6,6 +6,7 @@ To develop a Django application to store and retrieve data from a Movies Databas
 
 ## ENTITY RELATIONSHIP DIAGRAM
 
+![WhatsApp Image 2025-04-22 at 08 29 44_f7e6f3e4](https://github.com/user-attachments/assets/4931cd4a-f6e8-4a1a-a91d-0096d1662004)
 
 
 ## DESIGN STEPS
